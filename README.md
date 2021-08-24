@@ -1,9 +1,9 @@
 # Wavy
 
-A React based music player with all the bells and whistles. Playlist is comprised of some of my favorite songs to code to. 
+A side-project React based music player with all the usual music listening features such as play, pause, skip, and even embedded volume control. The song library  is comprised of some of my favorite LoFi songs to code to. 
 
 ## Tech Stack
-React | Sass Styling
+JavaScript | React | Sass 
 
 ## Installation
 
