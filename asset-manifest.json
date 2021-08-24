@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/wavy/static/css/main.69793001.chunk.css",
+    "main.js": "/wavy/static/js/main.a8d297ef.chunk.js",
+    "main.js.map": "/wavy/static/js/main.a8d297ef.chunk.js.map",
+    "runtime-main.js": "/wavy/static/js/runtime-main.6df4ac57.js",
+    "runtime-main.js.map": "/wavy/static/js/runtime-main.6df4ac57.js.map",
+    "static/js/2.2df6a7e1.chunk.js": "/wavy/static/js/2.2df6a7e1.chunk.js",
+    "static/js/2.2df6a7e1.chunk.js.map": "/wavy/static/js/2.2df6a7e1.chunk.js.map",
+    "index.html": "/wavy/index.html",
+    "static/css/main.69793001.chunk.css.map": "/wavy/static/css/main.69793001.chunk.css.map",
+    "static/js/2.2df6a7e1.chunk.js.LICENSE.txt": "/wavy/static/js/2.2df6a7e1.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6df4ac57.js",
+    "static/js/2.2df6a7e1.chunk.js",
+    "static/css/main.69793001.chunk.css",
+    "static/js/main.a8d297ef.chunk.js"
+  ]
+}
