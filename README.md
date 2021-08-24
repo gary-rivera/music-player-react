@@ -18,7 +18,6 @@ npm start
 ## Features
 - Modern React hooks such as useState and useRef for complex state management throughout component hierarchy.
 - Functional components displaying best practices. 
-- 
 
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
